@@ -47,7 +47,7 @@ public class Lcs {
 
     public static void main(String[] args) {
         char[] a = new char[]{'m', 'i', 't', 'c', 'm', 'u'};
-        char[] b = new char[]{'m', 't', 'a', 'c', 'n', 'u'};
+        char[] b = new char[]{'m', 't', 'a', 'c', 'n'};
 
         Lcs lcs = new Lcs();
 
